@@ -1,2 +1,5 @@
 # WordPress
 Root directory
+
+
+Plugins
